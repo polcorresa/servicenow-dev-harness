@@ -1,0 +1,4 @@
+.env
+.harness_state.json
+.DS_Store
+__pycache__/

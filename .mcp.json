@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "servicenow": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--script",
+        "servicenow_mcp/server.py"
+      ]
+    }
+  }
+}

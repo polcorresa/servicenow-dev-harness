@@ -1,0 +1,15 @@
+{
+  "enabledMcpjsonServers": [
+    "servicenow"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__servicenow__prod_get_ticket",
+      "mcp__servicenow__prod_query",
+      "mcp__servicenow__dev_query",
+      "mcp__servicenow__dev_describe_table",
+      "mcp__servicenow__get_change",
+      "mcp__servicenow__list_update_set_changes"
+    ]
+  }
+}
